@@ -1,0 +1,62 @@
+{
+    "list": [
+        {
+            "A_ID": "4a3e025f-0138-498f-b5e5-4cec272bc8f0",
+            "AT_ID": "201705031824338865",
+            "Titles": "关于印发《考勤管理办法（试行）》的通知",
+            "KeyWards": "关于印发《考勤管理办法（试行）》的通知",
+            "Contents": "",
+            "Authors": "000",
+            "Froms": "学院文件",
+            "isTop": 1,
+            "isApproval": 1,
+            "SortCode": 1,
+            "isDel": 0,
+            "CreateDate": "2023-03-17T14: 41: 54"
+        },
+        {
+            "A_ID": "ea102eb2-f5d7-4bf9-83cb-c7753a2a5dcc",
+            "AT_ID": "201705031824338865",
+            "Titles": "国内公务接待管理办法",
+            "KeyWards": "国内公务接待管理办法",
+            "Contents": "",
+            "Authors": "000",
+            "Froms": "计划财务处",
+            "isTop": 1,
+            "isApproval": 1,
+            "SortCode": 1,
+            "isDel": 0,
+            "CreateDate": "2023-03-17T14: 41: 22"
+        },
+        {
+            "A_ID": "9efa1987-8bd2-422a-85fe-9ada7030e8e1",
+            "AT_ID": "201705031824338865",
+            "Titles": "关于加强财务开支管理的规定",
+            "KeyWards": "关于加强财务开支管理的规定",
+            "Contents": "",
+            "Authors": "000",
+            "Froms": "计划财务处",
+            "isTop": 1,
+            "isApproval": 1,
+            "SortCode": 1,
+            "isDel": 0,
+            "CreateDate": "2023-03-17T14: 40: 19"
+        },
+        {
+            "A_ID": "7e47dfcc-87a6-48e3-9912-e2753b731e6c",
+            "AT_ID": "201705031824338865",
+            "Titles": "关于加强财务开支管理的规定(襄职院办[2017]16号)",
+            "KeyWards": "财务开支管理",
+            "Contents": "",
+            "Authors": "000",
+            "Froms": "计划财务处",
+            "isTop": 1,
+            "isApproval": 1,
+            "SortCode": 1,
+            "isDel": 0,
+            "CreateDate": "2023-03-17T14: 37: 53"
+        }
+    ],
+    "Code": "00",
+    "Msg": "成功获取"
+}

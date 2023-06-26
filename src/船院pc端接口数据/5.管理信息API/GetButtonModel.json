@@ -1,0 +1,83 @@
+{
+    "active": null,
+    "btnTypes": [
+        {
+            "name": "按钮和权限",
+            "code": "1",
+            "selected": 1
+        },
+        {
+            "name": "仅权限",
+            "code": "2",
+            "selected": 0
+        }
+    ],
+    "btnStatus": [
+        {
+            "name": "PC端/移动端",
+            "code": "0",
+            "selected": 1
+        },
+        {
+            "name": "仅PC端",
+            "code": "1",
+            "selected": 0
+        },
+        {
+            "name": "仅移动端",
+            "code": "2",
+            "selected": 0
+        }
+    ],
+    "btnClasss": [
+        {
+            "name": "默认",
+            "code": "1-default",
+            "selected": 1
+        },
+        {
+            "name": "主要",
+            "code": "2-primary",
+            "selected": 0
+        },
+        {
+            "name": "次要",
+            "code": "3-secondary",
+            "selected": 0
+        },
+        {
+            "name": "成功",
+            "code": "4-success",
+            "selected": 0
+        },
+        {
+            "name": "警告",
+            "code": "5-warning",
+            "selected": 0
+        },
+        {
+            "name": "错误",
+            "code": "6-danger",
+            "selected": 0
+        },
+        {
+            "name": "链接",
+            "code": "7-link",
+            "selected": 0
+        },
+        {
+            "name": "普通",
+            "code": "8-normal",
+            "selected": 0
+        }
+    ],
+    "Btn_ID": null,
+    "Btn_Name": null,
+    "Btn_Type": null,
+    "Btn_Status": null,
+    "Btn_Code": null,
+    "Btn_Class": null,
+    "SortCode": null,
+    "isDel": null,
+    "Note": null
+}

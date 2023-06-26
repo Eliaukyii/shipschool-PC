@@ -1,0 +1,39 @@
+{
+    "list": {
+        "approval99": 1,
+        "approval1": 0,
+        "approval2": 1,
+        "approval4": 0,
+        "travel99": 1,
+        "travel1": 0,
+        "travel2": 1,
+        "travel4": 0,
+        "anysingle99": 0,
+        "anysingle1": 0,
+        "anysingle2": 0,
+        "anysingle4": 0,
+        "currentpayment99": 0,
+        "currentpayment1": 0,
+        "currentpayment2": 0,
+        "currentpayment4": 0,
+        "allowance99": 0,
+        "allowance1": 0,
+        "allowance2": 0,
+        "allowance4": 0,
+        "msg": [
+            {
+                "PI_ID": "",
+                "PFI_Name": "暂无待办事项",
+                "PFI_Type": "暂无待办事项",
+                "AI_Status": null,
+                "PFI_UserID": "",
+                "CreateDate": null,
+                "status": "",
+                "CreateDateStr": "",
+                "PFI_Status": null
+            }
+        ]
+    },
+    "Code": "00",
+    "Msg": "成功获取"
+}

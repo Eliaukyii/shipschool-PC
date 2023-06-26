@@ -1,0 +1,393 @@
+{
+    "Code": "00",
+    "Msg": "success",
+    "List": [
+        {
+            "Menu_ID": "CustomApprovlsheet_List",
+            "Menu_Name": "日常报销申请",
+            "Menu_Icon": "",
+            "Menu_Url": "/Office/FR_approvlsheet/CustomeApprovlsheet_List.aspx",
+            "child": null
+        },
+        {
+            "Menu_ID": "ApprovalTravel_List",
+            "Menu_Name": "差旅报销申请",
+            "Menu_Icon": "",
+            "Menu_Url": "/Office/FR_approvlsheet_Travel/CustomTravel_List.aspx",
+            "child": null
+        },
+        {
+            "Menu_ID": "CustomAnysingle_List",
+            "Menu_Name": "个人借支申请",
+            "Menu_Icon": "",
+            "Menu_Url": "/Office/FR_Anysingle/CustomAnysingle_List.aspx",
+            "child": null
+        },
+        {
+            "Menu_ID": "184727cc-1b9f-4788-a452-bc16987e10ad",
+            "Menu_Name": "往来付款申请",
+            "Menu_Icon": "",
+            "Menu_Url": "/Office/FR_CurrentPayment/CustomCurrentPayment_List.aspx",
+            "child": null
+        }
+    ]
+},
+
+
+
+{
+    "Code": "00",
+    "Msg": "success",
+    "List": [
+        {
+            "Menu_ID": "201710171421283794",
+            "Menu_Name": "管理功能",
+            "Menu_Icon": "",
+            "Menu_Url": "",
+            "child": [
+                {
+                    "Menu_ID": "201710171501443569",
+                    "Menu_Name": "凭证查看",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/VC/VC_Voucher/VC_Voucher_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "CarryOverList1202",
+                    "Menu_Name": "年结管理",
+                    "Menu_Icon": "system",
+                    "Menu_Url": "/Office/CarryOver/CarryOverList.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201702272048289455",
+                    "Menu_Name": "文章管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/Article/FRM_Article_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201706190920344257",
+                    "Menu_Name": "消息通知",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SysSetting/SendMessge.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201710171422207785",
+                    "Menu_Name": "功能检测",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SysSetting/System_Function.aspx",
+                    "child": null
+                }
+            ]
+        },
+        {
+            "Menu_ID": "201612161734213236",
+            "Menu_Name": "系统设置",
+            "Menu_Icon": "",
+            "Menu_Url": "",
+            "child": [
+                {
+                    "Menu_ID": "201602142238155549",
+                    "Menu_Name": "菜单栏目",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SysSetting/System_Menu.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201702201604236755",
+                    "Menu_Name": "访问管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/IPBlacklist/IPBlacklist_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142239012564",
+                    "Menu_Name": "按钮属性",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SysSetting/System_Button.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142239066102",
+                    "Menu_Name": "数据字典",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SysSetting/System_Dictionary.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142239275397",
+                    "Menu_Name": "系统参数",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SysSetting/System_Base.aspx",
+                    "child": null
+                }
+            ]
+        },
+        {
+            "Menu_ID": "201607181140534843",
+            "Menu_Name": "系统管理",
+            "Menu_Icon": "",
+            "Menu_Url": "",
+            "child": [
+                {
+                    "Menu_ID": "201603150958296497",
+                    "Menu_Name": "文件类型",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/Article/FRM_Article_Type_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "e731884c-4cc5-48bf-aa00-3f9503c3c0ec",
+                    "Menu_Name": "文件管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/NetDisk/NetDiskList.aspx?type=Admin",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201708180933292161",
+                    "Menu_Name": "年终结转",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/CarryOver/CarryOver.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "07d21dfc-7430-4331-9c03-b22c8cf26fe8",
+                    "Menu_Name": "数据同步",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/Async.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142239229602",
+                    "Menu_Name": "系统日志",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SystemLog/System_Log.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142239393012",
+                    "Menu_Name": "数据备份",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/SysSetting/System_BackUp.aspx",
+                    "child": null
+                }
+            ]
+        },
+        {
+            "Menu_ID": "201602192143567428",
+            "Menu_Name": "流程管理",
+            "Menu_Icon": "",
+            "Menu_Url": "",
+            "child": [
+                {
+                    "Menu_ID": "201602192144538508",
+                    "Menu_Name": "流程列表",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/WorkFlow/Process_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602192145255417",
+                    "Menu_Name": "流程设置",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/WorkFlow/ProcessSetting.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602211655452676",
+                    "Menu_Name": "流程类型",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/WorkFlow/ProcessType_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602211735485846",
+                    "Menu_Name": "工作分组",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/WorkFlow/WorkGroup_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "C_Item_MoneyCheck",
+                    "Menu_Name": "逾期管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_Item/C_Item_MoneyCheck.aspx",
+                    "child": null
+                }
+            ]
+        },
+        {
+            "Menu_ID": "201602142242422970",
+            "Menu_Name": "人员挡案",
+            "Menu_Icon": "",
+            "Menu_Url": "",
+            "child": [
+                {
+                    "Menu_ID": "1aa30aa5-dc2c-4ed3-bf4b-0320aee167ef",
+                    "Menu_Name": "人员类别",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_Category/C_Category_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201606171145091060",
+                    "Menu_Name": "部门管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_Dept/C_Dept_Tree.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "99efe526-2fe0-4dcf-91b7-922fde5bbbb1",
+                    "Menu_Name": "人员管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/Employee/Employee_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201607251538102502",
+                    "Menu_Name": "工资账户",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/PayAccount/PayAccount_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201605091017589850",
+                    "Menu_Name": "报销账户",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/AccountBank/AccountBank_List.aspx",
+                    "child": null
+                }
+            ]
+        },
+        {
+            "Menu_ID": "201602142244399041",
+            "Menu_Name": "权限管理",
+            "Menu_Icon": "",
+            "Menu_Url": "",
+            "child": [
+                {
+                    "Menu_ID": "201803100911003438",
+                    "Menu_Name": "岗位变更",
+                    "Menu_Icon": "user-group",
+                    "Menu_Url": "/Frames/Admin/Admin_Change.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142242543567",
+                    "Menu_Name": "部门管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/Admin/Admin_Organization.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142242462112",
+                    "Menu_Name": "用户管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/admin/Admin_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142244437712",
+                    "Menu_Name": "角色列表",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/admin/Admin_Role.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142244583243",
+                    "Menu_Name": "角色权限",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/Admin/Admin_Role_Power.aspx?action=RoleList",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142245035526",
+                    "Menu_Name": "选择用户",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/admin/RoleToAdmin.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201602142245077397",
+                    "Menu_Name": "选择角色",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/admin/AdminToRole.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201707241851155618",
+                    "Menu_Name": "用户权限",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Frames/Admin/Admin_Role_Power.aspx?action=MemList",
+                    "child": null
+                }
+            ]
+        },
+        {
+            "Menu_ID": "e094064d-9b24-495f-b328-94cebf3883bd",
+            "Menu_Name": "分类代码",
+            "Menu_Icon": "",
+            "Menu_Url": "",
+            "child": [
+                {
+                    "Menu_ID": "7f3ae685-082d-4d4a-826f-556d0573e6a5",
+                    "Menu_Name": "项目科目对应",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/ItemSubject/ItemSubject_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201605091028155151",
+                    "Menu_Name": "往来经费用途",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/DeptSubject/DeptSubject_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201606071601349043",
+                    "Menu_Name": "项目类型代码",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_ItemType/C_ItemType_Tree.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201606121018555905",
+                    "Menu_Name": "会计科目代码",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_Subject/C_Subject_Tree.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "a1cdfac1-57de-4d57-8792-e5016a67d8ed",
+                    "Menu_Name": "经济分类科目",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_SubjectE/C_SubjectE_Tree.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "b39861bd-5936-4cc9-ae9b-cc83d407a4d5",
+                    "Menu_Name": "功能分类科目",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_SubjectF/C_SubjectF_Tree.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "201605241542359788",
+                    "Menu_Name": "货币种类管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/Currency/Currency_List.aspx",
+                    "child": null
+                },
+                {
+                    "Menu_ID": "C_Note_20190513",
+                    "Menu_Name": "摘要管理",
+                    "Menu_Icon": "",
+                    "Menu_Url": "/Office/C_Note/C_Note_List.aspx",
+                    "child": null
+                }
+            ]
+        }
+    ]
+}

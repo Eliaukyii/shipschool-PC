@@ -1,0 +1,76 @@
+{
+    "ParentName": "",
+    "Mem_Name": "",
+    "Sys_OrganizationType": [
+        {
+            "name": "行政管理",
+            "code": "1",
+            "selected": 1
+        },
+        {
+            "name": "教学管理",
+            "code": "2",
+            "selected": 0
+        },
+        {
+            "name": "教学单位",
+            "code": "3",
+            "selected": 0
+        },
+        {
+            "name": "科研单位",
+            "code": "4",
+            "selected": 0
+        },
+        {
+            "name": "独立核算",
+            "code": "5",
+            "selected": 0
+        },
+        {
+            "name": "离退休部",
+            "code": "6",
+            "selected": 0
+        },
+        {
+            "name": "其他单位",
+            "code": "9",
+            "selected": 0
+        }
+    ],
+    "Sys_Status": [
+        {
+            "Value_ID": "201602142259406772",
+            "Item_ID": "201602142300539760",
+            "Value_Name": "已启用",
+            "Value_Code": "Sys_Status_1",
+            "Value_Values": "0",
+            "Value_Type": 2,
+            "SortCode": 1,
+            "isDel": 0,
+            "Note": ""
+        },
+        {
+            "Value_ID": "201602142259332380",
+            "Item_ID": "201602142300539760",
+            "Value_Name": "已禁用",
+            "Value_Code": "Sys_Status_2",
+            "Value_Values": "1",
+            "Value_Type": 2,
+            "SortCode": 2,
+            "isDel": 0,
+            "Note": ""
+        }
+    ],
+    "Org_ID": null,
+    "Org_Name": null,
+    "Org_ShortName": null,
+    "Org_Pinyin": null,
+    "Org_Type": null,
+    "Org_ParentID": null,
+    "Org_Status": null,
+    "Mem_ID": null,
+    "SortCode": null,
+    "isDel": null,
+    "Note": null
+}

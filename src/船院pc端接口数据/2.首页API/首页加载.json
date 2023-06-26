@@ -1,0 +1,91 @@
+{
+    "MenuList": [
+        {
+            "Menu_ID": "202103121712507382",
+            "Menu_Name": "申报管理",
+            "Menu_Type": 0,
+            "Menu_Url": "",
+            "Menu_Parent": "0",
+            "Menu_Code": "",
+            "Menu_Icon": "log",
+            "SortCode": 10,
+            "isDel": 0,
+            "Note": "SystemModular"
+        },
+        {
+            "Menu_ID": "202210251013288200",
+            "Menu_Name": "审批管理",
+            "Menu_Type": 0,
+            "Menu_Url": "",
+            "Menu_Parent": "0",
+            "Menu_Code": "",
+            "Menu_Icon": "align-left",
+            "SortCode": 20,
+            "isDel": 0,
+            "Note": "SystemModular"
+        },
+        {
+            "Menu_ID": "201607121659405343",
+            "Menu_Name": "综合查询",
+            "Menu_Type": 0,
+            "Menu_Url": "",
+            "Menu_Parent": "0",
+            "Menu_Code": "",
+            "Menu_Icon": "search",
+            "SortCode": 30,
+            "isDel": 0,
+            "Note": "BusinessModular"
+        },
+        {
+            "Menu_ID": "202210251014167421",
+            "Menu_Name": "统计分析",
+            "Menu_Type": 0,
+            "Menu_Url": "",
+            "Menu_Parent": "0",
+            "Menu_Code": "",
+            "Menu_Icon": "list",
+            "SortCode": 30,
+            "isDel": 0,
+            "Note": "SystemModular"
+        },
+        {
+            "Menu_ID": "201612191649559932",
+            "Menu_Name": "预算管理",
+            "Menu_Type": 0,
+            "Menu_Url": "",
+            "Menu_Parent": "0",
+            "Menu_Code": "",
+            "Menu_Icon": "hetong",
+            "SortCode": 50,
+            "isDel": 0,
+            "Note": "SystemModular"
+        },
+        {
+            "Menu_ID": "000000",
+            "Menu_Name": "系统管理",
+            "Menu_Type": 0,
+            "Menu_Url": "",
+            "Menu_Parent": "0",
+            "Menu_Code": "",
+            "Menu_Icon": "system",
+            "SortCode": 60,
+            "isDel": 0,
+            "Note": "SystemModular"
+        }
+    ],
+    "BottomInfo": " ",
+    "BackGroundTitle": "财务网上报销平台",
+    "HeaImg": "http://192.168.2.254:8090//Images/Head/Head6.jpg",
+    "UserName": "Test测试账号",
+    "UserID": "000",
+    "EnableTime": "注册信息读取错误.",
+    "Music": true,
+    "SystemNotice": false,
+    "SystemNoticeTxt": "",
+    "BrowserNotice": false,
+    "Version": "3.1.2021.01.15",
+    "NewestVersion": "3.1.2021.01.15",
+    "CheckAccount": false,
+    "Token": "",
+    "Appid": ""
+}

@@ -1,0 +1,669 @@
+{
+    "isSys": false,
+    "active": null,
+    "DdlParent": [
+        {
+            "name": "顶级栏目",
+            "code": "0",
+            "selected": 0
+        },
+        {
+            "name": "·预算申报分析",
+            "code": "ItemPayApprovalTotal",
+            "selected": 0
+        },
+        {
+            "name": "·------财政项目支出报表",
+            "code": "ItemPayApprovalList1",
+            "selected": 0
+        },
+        {
+            "name": "·------财政预算分类报表",
+            "code": "ItemPayApprovalList2",
+            "selected": 0
+        },
+        {
+            "name": "·------经济分类报表",
+            "code": "ItemPayApprovalList3",
+            "selected": 0
+        },
+        {
+            "name": "·------三公经费报表",
+            "code": "ItemPayApprovalList4",
+            "selected": 0
+        },
+        {
+            "name": "·------会议费|培训费报表",
+            "code": "ItemPayApprovalList5",
+            "selected": 0
+        },
+        {
+            "name": "·------政府采购报表一 ",
+            "code": "ItemPayApprovalList6",
+            "selected": 0
+        },
+        {
+            "name": "·------政府采购报表二",
+            "code": "ItemPayApprovalList7",
+            "selected": 0
+        },
+        {
+            "name": "·------资产配置报表一",
+            "code": "ItemPayApprovalList8",
+            "selected": 0
+        },
+        {
+            "name": "·------资产配置报表二",
+            "code": "ItemPayApprovalList9",
+            "selected": 0
+        },
+        {
+            "name": "·------购买服务报表一",
+            "code": "ItemPayApprovalList10",
+            "selected": 0
+        },
+        {
+            "name": "·------购买服务报表二",
+            "code": "ItemPayApprovalList11",
+            "selected": 0
+        },
+        {
+            "name": "·------校内经费类型报表 ",
+            "code": "ItemPayApprovalList12",
+            "selected": 0
+        },
+        {
+            "name": "·------校内项目报表 ",
+            "code": "ItemPayApprovalList13",
+            "selected": 0
+        },
+        {
+            "name": "·------经济业务统计表",
+            "code": "ItemPayApprovalList14",
+            "selected": 0
+        },
+        {
+            "name": "·------资产配置维度表",
+            "code": "AssetAllocation",
+            "selected": 0
+        },
+        {
+            "name": "·------政府采购维度表",
+            "code": "ZfPurchase",
+            "selected": 0
+        },
+        {
+            "name": "·------财政项目维度表",
+            "code": "FinanceItem",
+            "selected": 0
+        },
+        {
+            "name": "·------三公两费维度表",
+            "code": "ScenarioCost",
+            "selected": 0
+        },
+        {
+            "name": "·------部门维度表",
+            "code": "DeptPerspective",
+            "selected": 0
+        },
+        {
+            "name": "·------计财处维度表",
+            "code": "JCCVisualAngle",
+            "selected": 0
+        },
+        {
+            "name": "·------顶层维度表",
+            "code": "TopVisualAngle",
+            "selected": 0
+        },
+        {
+            "name": "·------场景维度表",
+            "code": "ScenarioDimension",
+            "selected": 0
+        },
+        {
+            "name": "·附件查询统计表",
+            "code": "CItemAtta_List0721",
+            "selected": 0
+        },
+        {
+            "name": "·部门预算类型统计",
+            "code": "CItemBelong_Total0728",
+            "selected": 0
+        },
+        {
+            "name": "·部门经济分类统计",
+            "code": "CItemBelong_Total20728",
+            "selected": 0
+        },
+        {
+            "name": "·预算申报统计表",
+            "code": "CItemApproval_Total0723",
+            "selected": 0
+        },
+        {
+            "name": "·预算申报汇总表",
+            "code": "CItemApproval_Total20723",
+            "selected": 0
+        },
+        {
+            "name": "·申报管理",
+            "code": "202103121712507382",
+            "selected": 0
+        },
+        {
+            "name": "·------日常报销申请",
+            "code": "CustomApprovlsheet_List",
+            "selected": 0
+        },
+        {
+            "name": "·------差旅报销申请",
+            "code": "ApprovalTravel_List",
+            "selected": 0
+        },
+        {
+            "name": "·------个人借支申请",
+            "code": "CustomAnysingle_List",
+            "selected": 0
+        },
+        {
+            "name": "·------往来付款申请",
+            "code": "184727cc-1b9f-4788-a452-bc16987e10ad",
+            "selected": 0
+        },
+        {
+            "name": "·预算特种汇总表",
+            "code": "CItemBelong_Total30804",
+            "selected": 0
+        },
+        {
+            "name": "·项目授权",
+            "code": "CIProject_Tree20200811",
+            "selected": 0
+        },
+        {
+            "name": "·财政项目类型",
+            "code": "CIProject_Tree20200909",
+            "selected": 0
+        },
+        {
+            "name": "·经费事项统计表",
+            "code": "C_Item_SubjectE_List0804",
+            "selected": 0
+        },
+        {
+            "name": "·审批管理",
+            "code": "202210251013288200",
+            "selected": 0
+        },
+        {
+            "name": "·------日常报销审批",
+            "code": "CustomApprovlsheet_SP",
+            "selected": 0
+        },
+        {
+            "name": "·------差旅报销审批",
+            "code": "ApprovalTravel_SP",
+            "selected": 0
+        },
+        {
+            "name": "·------个人借支审批",
+            "code": "CustomAnysingle_SP",
+            "selected": 0
+        },
+        {
+            "name": "·------往来付款审批",
+            "code": "8cca0fea-84fc-4427-ac34-ba47154d5c80",
+            "selected": 0
+        },
+        {
+            "name": "·统计分析",
+            "code": "202210251014167421",
+            "selected": 0
+        },
+        {
+            "name": "·------预算分配统计表",
+            "code": "201707032252563707",
+            "selected": 0
+        },
+        {
+            "name": "·------预算分配执行表",
+            "code": "201707032253157336",
+            "selected": 0
+        },
+        {
+            "name": "·------财务项目对比表",
+            "code": "C_Item_LocalAndTc0701",
+            "selected": 0
+        },
+        {
+            "name": "·------支付信息统计",
+            "code": "PayInfoNewTotal",
+            "selected": 0
+        },
+        {
+            "name": "·综合查询",
+            "code": "201607121659405343",
+            "selected": 0
+        },
+        {
+            "name": "·------预算分配查询",
+            "code": "201711171132485306",
+            "selected": 0
+        },
+        {
+            "name": "·------预算下发查询",
+            "code": "201711171145345993",
+            "selected": 0
+        },
+        {
+            "name": "·------部门余额列表",
+            "code": "202105281557231320",
+            "selected": 0
+        },
+        {
+            "name": "·------个人经费查询",
+            "code": "202105281558042985",
+            "selected": 0
+        },
+        {
+            "name": "·------项目明细列表",
+            "code": "202105281558302723",
+            "selected": 0
+        },
+        {
+            "name": "·预算管理",
+            "code": "201612191649559932",
+            "selected": 0
+        },
+        {
+            "name": "·------项目年度预算",
+            "code": "201606171111304618",
+            "selected": 0
+        },
+        {
+            "name": "·------预算分配管理",
+            "code": "201705101130391869",
+            "selected": 0
+        },
+        {
+            "name": "·------预算下发申请",
+            "code": "201705091608593987",
+            "selected": 0
+        },
+        {
+            "name": "·------预算下发审批",
+            "code": "202202151809133854",
+            "selected": 0
+        },
+        {
+            "name": "·系统管理",
+            "code": "000000",
+            "selected": 0
+        },
+        {
+            "name": "·------管理功能",
+            "code": "201710171421283794",
+            "selected": 0
+        },
+        {
+            "name": "·------------凭证查看",
+            "code": "201710171501443569",
+            "selected": 0
+        },
+        {
+            "name": "·------------年结管理",
+            "code": "CarryOverList1202",
+            "selected": 0
+        },
+        {
+            "name": "·------------文章管理",
+            "code": "201702272048289455",
+            "selected": 0
+        },
+        {
+            "name": "·------------消息通知",
+            "code": "201706190920344257",
+            "selected": 0
+        },
+        {
+            "name": "·------------功能检测",
+            "code": "201710171422207785",
+            "selected": 0
+        },
+        {
+            "name": "·------系统设置",
+            "code": "201612161734213236",
+            "selected": 0
+        },
+        {
+            "name": "·------------菜单栏目",
+            "code": "201602142238155549",
+            "selected": 0
+        },
+        {
+            "name": "·------------访问管理",
+            "code": "201702201604236755",
+            "selected": 0
+        },
+        {
+            "name": "·------------按钮属性",
+            "code": "201602142239012564",
+            "selected": 0
+        },
+        {
+            "name": "·------------数据字典",
+            "code": "201602142239066102",
+            "selected": 0
+        },
+        {
+            "name": "·------------系统参数",
+            "code": "201602142239275397",
+            "selected": 0
+        },
+        {
+            "name": "·------系统管理",
+            "code": "201607181140534843",
+            "selected": 0
+        },
+        {
+            "name": "·------------文件类型",
+            "code": "201603150958296497",
+            "selected": 0
+        },
+        {
+            "name": "·------------文件管理",
+            "code": "e731884c-4cc5-48bf-aa00-3f9503c3c0ec",
+            "selected": 0
+        },
+        {
+            "name": "·------------年终结转",
+            "code": "201708180933292161",
+            "selected": 0
+        },
+        {
+            "name": "·------------数据同步",
+            "code": "07d21dfc-7430-4331-9c03-b22c8cf26fe8",
+            "selected": 0
+        },
+        {
+            "name": "·------------系统日志",
+            "code": "201602142239229602",
+            "selected": 0
+        },
+        {
+            "name": "·------------数据备份",
+            "code": "201602142239393012",
+            "selected": 0
+        },
+        {
+            "name": "·------流程管理",
+            "code": "201602192143567428",
+            "selected": 0
+        },
+        {
+            "name": "·------------流程列表",
+            "code": "201602192144538508",
+            "selected": 0
+        },
+        {
+            "name": "·------------流程设置",
+            "code": "201602192145255417",
+            "selected": 0
+        },
+        {
+            "name": "·------------流程类型",
+            "code": "201602211655452676",
+            "selected": 0
+        },
+        {
+            "name": "·------------工作分组",
+            "code": "201602211735485846",
+            "selected": 0
+        },
+        {
+            "name": "·------------逾期管理",
+            "code": "C_Item_MoneyCheck",
+            "selected": 0
+        },
+        {
+            "name": "·------人员挡案",
+            "code": "201602142242422970",
+            "selected": 0
+        },
+        {
+            "name": "·------------人员类别",
+            "code": "1aa30aa5-dc2c-4ed3-bf4b-0320aee167ef",
+            "selected": 0
+        },
+        {
+            "name": "·------------部门管理",
+            "code": "201606171145091060",
+            "selected": 0
+        },
+        {
+            "name": "·------------人员管理",
+            "code": "99efe526-2fe0-4dcf-91b7-922fde5bbbb1",
+            "selected": 0
+        },
+        {
+            "name": "·------------工资账户",
+            "code": "201607251538102502",
+            "selected": 0
+        },
+        {
+            "name": "·------------报销账户",
+            "code": "201605091017589850",
+            "selected": 0
+        },
+        {
+            "name": "·------权限管理",
+            "code": "201602142244399041",
+            "selected": 0
+        },
+        {
+            "name": "·------------岗位变更",
+            "code": "201803100911003438",
+            "selected": 0
+        },
+        {
+            "name": "·------------部门管理",
+            "code": "201602142242543567",
+            "selected": 0
+        },
+        {
+            "name": "·------------用户管理",
+            "code": "201602142242462112",
+            "selected": 0
+        },
+        {
+            "name": "·------------角色列表",
+            "code": "201602142244437712",
+            "selected": 0
+        },
+        {
+            "name": "·------------角色权限",
+            "code": "201602142244583243",
+            "selected": 0
+        },
+        {
+            "name": "·------------选择用户",
+            "code": "201602142245035526",
+            "selected": 0
+        },
+        {
+            "name": "·------------选择角色",
+            "code": "201602142245077397",
+            "selected": 0
+        },
+        {
+            "name": "·------------用户权限",
+            "code": "201707241851155618",
+            "selected": 0
+        },
+        {
+            "name": "·------分类代码",
+            "code": "e094064d-9b24-495f-b328-94cebf3883bd",
+            "selected": 0
+        },
+        {
+            "name": "·------------项目科目对应",
+            "code": "7f3ae685-082d-4d4a-826f-556d0573e6a5",
+            "selected": 0
+        },
+        {
+            "name": "·------------往来经费用途",
+            "code": "201605091028155151",
+            "selected": 0
+        },
+        {
+            "name": "·------------项目类型代码",
+            "code": "201606071601349043",
+            "selected": 0
+        },
+        {
+            "name": "·------------会计科目代码",
+            "code": "201606121018555905",
+            "selected": 0
+        },
+        {
+            "name": "·------------经济分类科目",
+            "code": "a1cdfac1-57de-4d57-8792-e5016a67d8ed",
+            "selected": 0
+        },
+        {
+            "name": "·------------功能分类科目",
+            "code": "b39861bd-5936-4cc9-ae9b-cc83d407a4d5",
+            "selected": 0
+        },
+        {
+            "name": "·------------货币种类管理",
+            "code": "201605241542359788",
+            "selected": 0
+        },
+        {
+            "name": "·------------摘要管理",
+            "code": "C_Note_20190513",
+            "selected": 0
+        },
+        {
+            "name": "·凭证同步管理",
+            "code": "C_Voucher_List1202",
+            "selected": 0
+        },
+        {
+            "name": "·项目库管理",
+            "code": "CIProject20200314",
+            "selected": 0
+        },
+        {
+            "name": "·调整申报",
+            "code": "CItemApprovalEdit20200413",
+            "selected": 0
+        },
+        {
+            "name": "·调整审批",
+            "code": "CItemApprovalEdit20200413SP",
+            "selected": 0
+        },
+        {
+            "name": "·资产报销",
+            "code": "ApprovalAsset",
+            "selected": 0
+        },
+        {
+            "name": "·------资产报销申请",
+            "code": "ApprovalAsset_List",
+            "selected": 0
+        },
+        {
+            "name": "·------资产报销审批",
+            "code": "ApprovalAsset_SP",
+            "selected": 0
+        },
+        {
+            "name": "·划出划入管理",
+            "code": "ItemOutInMoneyMana",
+            "selected": 0
+        },
+        {
+            "name": "·------划出划入申请",
+            "code": "ItemOutInMoneyList",
+            "selected": 0
+        },
+        {
+            "name": "·------划出划入审批",
+            "code": "ItemOutInMoneyApproval",
+            "selected": 0
+        },
+        {
+            "name": "·欠款汇总查询",
+            "code": "PayPerson_Anysingle0713",
+            "selected": 0
+        },
+        {
+            "name": "·在途统计表",
+            "code": "ItemOnGoing0107",
+            "selected": 0
+        },
+        {
+            "name": "·在途进行明细",
+            "code": "CarryOverListFrozen0110",
+            "selected": 0
+        },
+        {
+            "name": "·欠款记录查询",
+            "code": "PayPerson_Anysingle0708",
+            "selected": 0
+        }
+    ],
+    "modularNote": [
+        {
+            "name": "系统模块",
+            "code": "SystemModular",
+            "selected": 0
+        },
+        {
+            "name": "流程模块",
+            "code": "WorkFlowModular",
+            "selected": 0
+        },
+        {
+            "name": "文章模块",
+            "code": "ArticleModular",
+            "selected": 0
+        },
+        {
+            "name": "办公模块",
+            "code": "OfficeModular",
+            "selected": 1
+        },
+        {
+            "name": "附加模块",
+            "code": "ExtraModular",
+            "selected": 0
+        },
+        {
+            "name": "业务模块",
+            "code": "BusinessModular",
+            "selected": 0
+        }
+    ],
+    "BtnID": null,
+    "BtnName": null,
+    "hideId": null,
+    "seeName": null,
+    "previewicon": null,
+    "cb": false,
+    "Menu_ID": null,
+    "Menu_Name": null,
+    "Menu_Type": null,
+    "Menu_Url": "",
+    "Menu_Parent": "0",
+    "Menu_Code": "",
+    "Menu_Icon": null,
+    "SortCode": null,
+    "isDel": null,
+    "Note": "OfficeModular"
+}
