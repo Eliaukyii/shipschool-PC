@@ -22,7 +22,7 @@
 </template>
 
 <script>
-// import { GetMenuJson } from "@/api/systemManage.js";
+import { GetMenuJson } from "@/api/systemManage.js";
 
 export default {
   data() {
@@ -37,15 +37,15 @@ export default {
     };
   },
   created() {
-    // this.GetMenuJson();
+    this.GetMenuJson();
   },
   mounted() {},
   methods: {
-    // GetMenuJson(data) {
-    //   GetMenuJson(data).then((res) => {
-    //   console.log(res.data);
-    // })
-    // }
+    GetMenuJson(data) {
+      GetMenuJson(data).then((res) => {
+      console.log(res.data);
+    })
+    }
   },
   components: {},
 };
