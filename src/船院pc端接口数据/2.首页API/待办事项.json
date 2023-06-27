@@ -1,39 +1,50 @@
 {
-    "list": {
-        "approval99": 1,
-        "approval1": 0,
-        "approval2": 1,
-        "approval4": 0,
-        "travel99": 1,
-        "travel1": 0,
-        "travel2": 1,
-        "travel4": 0,
-        "anysingle99": 0,
-        "anysingle1": 0,
-        "anysingle2": 0,
-        "anysingle4": 0,
-        "currentpayment99": 0,
-        "currentpayment1": 0,
-        "currentpayment2": 0,
-        "currentpayment4": 0,
-        "allowance99": 0,
-        "allowance1": 0,
-        "allowance2": 0,
-        "allowance4": 0,
-        "msg": [
-            {
-                "PI_ID": "",
-                "PFI_Name": "暂无待办事项",
-                "PFI_Type": "暂无待办事项",
-                "AI_Status": null,
-                "PFI_UserID": "",
-                "CreateDate": null,
-                "status": "",
-                "CreateDateStr": "",
-                "PFI_Status": null
-            }
-        ]
-    },
+    "list": "{"approval99":9,"approval1":6,"approval2":1,"approval4":0,"travel99":24,"travel1":15,"travel2":6,"travel4":2,"anysingle99":0,"anysingle1":0,"anysingle2":0,"anysingle4":0,"currentpayment99":0,"currentpayment1":0,"currentpayment2":0,"currentpayment4":0,"allowance99":0,"allowance1":0,"allowance2":0,"allowance4":0,"msg":"[
+        {
+            "PI_ID": "3e659007-2ab7-40ee-8f7b-6f110f446944",
+            "PFI_Name": "202306140005",
+            "PFI_Type": "差旅报销",
+            "AI_Status": 1,
+            "PFI_UserID": "蔡其松",
+            "CreateDate": "2023-06-14T17:04:36",
+            "status": "<span class=\"size-MINI btn btn-secondary-outline radius\">进行中</span>",
+            "CreateDateStr": "2023年06月14日",
+            "PFI_Status": 1
+        },
+        {
+            "PI_ID": "ae7be22c-6df0-4fa2-85ce-0209ad648c28",
+            "PFI_Name": "202306140002",
+            "PFI_Type": "差旅报销",
+            "AI_Status": 1,
+            "PFI_UserID": "蔡其松",
+            "CreateDate": "2023-06-14T16:06:49",
+            "status": "<span class=\"size-MINI btn btn-secondary-outline radius\">进行中</span>",
+            "CreateDateStr": "2023年06月14日",
+            "PFI_Status": 1
+        },
+        {
+            "PI_ID": "363d0111-d950-4785-ba2c-62946ede849b",
+            "PFI_Name": "202306070002",
+            "PFI_Type": "差旅报销",
+            "AI_Status": null,
+            "PFI_UserID": "蔡其松",
+            "CreateDate": "2023-06-07T10:43:26",
+            "status": "<span class=\"size-MINI btn btn-warning-outline radius\">退回</span>",
+            "CreateDateStr": "2023年06月07日",
+            "PFI_Status": 4
+        },
+        {
+            "PI_ID": "818f3fc5-34cb-4b93-b2b2-c284c4d70f57",
+            "PFI_Name": "202305310003",
+            "PFI_Type": "差旅报销",
+            "AI_Status": null,
+            "PFI_UserID": "蔡其松",
+            "CreateDate": "2023-05-31T16:31:07",
+            "status": "<span class=\"size-MINI btn btn-warning-outline radius\">退回</span>",
+            "CreateDateStr": "2023年05月31日",
+            "PFI_Status": 4
+        }
+    ]"     }",
     "Code": "00",
     "Msg": "成功获取"
 }
